@@ -1,0 +1,24 @@
+{
+  "name": "fileredirect-thing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hackerjef/fileredirect-thing.git"
+  },
+  "author": "hackerjef",
+  "license": "unlicense",
+  "bugs": {
+    "url": "https://github.com/Hackerjef/fileredirect-thing/issues"
+  },
+  "homepage": "https://github.com/Hackerjef/fileredirect-thing#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "express-http-proxy": "^1.2.0",
+    "http-proxy-middleware": "^0.18.0"
+  }
+}
